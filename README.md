@@ -1,0 +1,2 @@
+# testForJenk
+test jenkins integr.
